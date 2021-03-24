@@ -6,14 +6,15 @@ Create theoretical guides for the following standards/ use cases.
 
 ### UKW
 - Radio
-- VHF-Band II, 87.5 - 108 MHz,
+- VHF-Band II, 87.5 - 108 MHz
 - https://de.wikipedia.org/wiki/UKW-Rundfunk
 
 ### DABplus
 - Radio
 - auch DAB+
-- Frequenz...
+- VHF-Band III, 174.160 - 229.840 MHz
 - https://de.wikipedia.org/wiki/Digital_Audio_Broadcasting
+- https://de.wikipedia.org/wiki/T-DAB-Frequenz
 
 ### DVB-T
 - Fernsehen
@@ -42,13 +43,13 @@ Create theoretical guides for the following standards/ use cases.
 - Frequenz...
 - Link...
 
-### Other stuff
+## Other stuff
 - Fernsehen: DVB-C
 - IPTV
 - IP Radio
 - Streaming / Mediathek
 
 
-### Links
+## Links
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
