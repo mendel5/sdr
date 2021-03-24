@@ -15,28 +15,32 @@ Create theoretical guides for the following standards/ use cases.
 - VHF-Band III, 174.160 - 229.840 MHz
 - https://de.wikipedia.org/wiki/Digital_Audio_Broadcasting
 - https://de.wikipedia.org/wiki/T-DAB-Frequenz
+- https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
 
 ### DVB-T
 - Fernsehen
 - auch DVB-T / DVB-T2
-- Frequenz...
-- Fink...
+-  470 - 690 MHz
+- https://de.wikipedia.org/wiki/DVB-T2
+- https://de.wikipedia.org/wiki/DVB-T2_HD
 
 ### DVB-S
 - Fernsehen
 - DVB-S / DVB-S2
-- Frequenz...
-- Link...
+- Satellitenfrequenz: 10.7 – 11.75 MHz oder 11.8 – 12.75 GHz
+- LNB: 950 – 2150 MHz
+- https://de.wikipedia.org/wiki/DVB-S
+- https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
 
 ### ADS-B
 - Flugzeuge
-- Frequenz...
-- Link...
+- 1090 MHz
+- https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance
 
 ### Airband
 - Flugfunk
-- Frequenz...
-- Link...
+-  117.975 - 137 MHz
+- https://de.wikipedia.org/wiki/Flugfunk
 
 ### AIS
 - Schifffahrt
