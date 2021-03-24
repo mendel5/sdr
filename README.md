@@ -2,7 +2,7 @@
 Software defined radio
 
 ## To-Do
-Create theoretical guides for the following standards/ use cases.
+Create theoretical guides for the following standards/ use cases. Not intended for practical application.
 
 ### UKW
 - Radio
@@ -33,7 +33,7 @@ Create theoretical guides for the following standards/ use cases.
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
 
 ### ADS-B
-- Flugzeuge
+- Position von Flugzeuge
 - 1090 MHz
 - https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance
 
@@ -43,7 +43,7 @@ Create theoretical guides for the following standards/ use cases.
 - https://de.wikipedia.org/wiki/Flugfunk
 
 ### AIS
-- Schifffahrt
+- Position von Schiffen
 - AIS 1: 161.975 MHz (Kanal 87B)
 - AIS 2: 162.025 MHz (Kanal 88B)
 - https://de.wikipedia.org/wiki/Automatic_Identification_System
@@ -53,6 +53,10 @@ Create theoretical guides for the following standards/ use cases.
 - IPTV
 - IP Radio
 - Streaming / Mediathek
+- VHF & UHF Radio Monitoring
+- More satellites
+- HAM radio
+- Weather fax / satellite
 
 ## Links
 - https://www.ard-digital.de/
