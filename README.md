@@ -44,15 +44,15 @@ Create theoretical guides for the following standards/ use cases.
 
 ### AIS
 - Schifffahrt
-- Frequenz...
-- Link...
+- AIS 1: 161.975 MHz (Kanal 87B)
+- AIS 2: 162.025 MHz (Kanal 88B)
+- https://de.wikipedia.org/wiki/Automatic_Identification_System
 
 ## Other stuff
 - Fernsehen: DVB-C
 - IPTV
 - IP Radio
 - Streaming / Mediathek
-
 
 ## Links
 - https://www.ard-digital.de/
