@@ -59,5 +59,12 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - Weather fax / satellite
 
 ## Links
+- https://en.wikipedia.org/wiki/Software-defined_radio
+- https://www.rtl-sdr.com/about-rtl-sdr/
+- https://www.rtl-sdr.com/category/applications/
+- https://www.rtl-sdr.com/tag/applications-2/
+- https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
+- https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
+- https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
