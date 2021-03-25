@@ -39,8 +39,8 @@ Theoretical use cases. Not intended for practical application.
 ### DVB-S
 - Television, satellite based
 - also known as DVB-S / DVB-S2
-- Satellite frequency: 10.7 – 11.75 GHz or 11.8 – 12.75 GHz
-- LNB: 950 – 2175 MHz
+- Satellite frequency: 10.7 - 11.75 GHz or 11.8 - 12.75 GHz
+- LNB: 950 - 2175 MHz
 - https://de.wikipedia.org/wiki/DVB-S
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
 - https://www.hauppauge.de/site/products/data_nova-s2.html
