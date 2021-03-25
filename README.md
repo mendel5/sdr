@@ -71,6 +71,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - AIS 1: 161.975 MHz (Kanal 87B)
 - AIS 2: 162.025 MHz (Kanal 88B)
 - https://de.wikipedia.org/wiki/Automatic_Identification_System
+- https://www.rtl-sdr.com/rtl-sdr-tutorial-cheap-ais-ship-tracking/
 
 ### GNSS
 - Position
