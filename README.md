@@ -8,6 +8,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - Radio
 - VHF-Band II, 87.5 - 108 MHz
 - https://de.wikipedia.org/wiki/UKW-Rundfunk
+- https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
 
 ### DABplus
 - Radio
@@ -26,7 +27,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 
 ### DVB-S
 - Fernsehen
-- DVB-S / DVB-S2
+- auch DVB-S / DVB-S2
 - Satellitenfrequenz: 10.7 – 11.75 MHz oder 11.8 – 12.75 GHz
 - LNB: 950 – 2150 MHz
 - https://de.wikipedia.org/wiki/DVB-S
@@ -54,7 +55,6 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - IP Radio
 - Streaming / Mediathek
 - VHF & UHF Radio Monitoring
-- More satellites
 - HAM radio
 - Weather fax / satellite
 
