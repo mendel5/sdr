@@ -47,7 +47,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
 
 ### ADS-B
-- Position von Flugzeuge
+- Position von Flugzeugen
 - 1090 MHz
 - https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance
 - https://www.rtl-sdr.com/adsb-aircraft-radar-with-rtl-sdr/
