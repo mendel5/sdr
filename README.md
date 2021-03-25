@@ -6,9 +6,11 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 
 ### UKW
 - Radio
+- auch FM radio
 - VHF-Band II, 87.5 - 108 MHz
 - https://de.wikipedia.org/wiki/UKW-Rundfunk
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
+- https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
 
 ### DABplus
 - Radio
