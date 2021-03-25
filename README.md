@@ -10,6 +10,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - VHF-Band II, 87.5 - 108 MHz
 - https://de.wikipedia.org/wiki/UKW-Rundfunk
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
+- https://en.wikipedia.org/wiki/Band_II
 - https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
 
 ### DABplus
@@ -18,7 +19,11 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - VHF-Band III, 174.160 - 229.840 MHz
 - https://de.wikipedia.org/wiki/Digital_Audio_Broadcasting
 - https://de.wikipedia.org/wiki/T-DAB-Frequenz
+- https://de.wikipedia.org/wiki/VHF-Band_III
 - https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
+- https://github.com/AlbrechtL/welle.io
+- https://github.com/JvanKatwijk/qt-dab
+- https://qirx.softsyst.com/
 
 ### DVB-T
 - Fernsehen
