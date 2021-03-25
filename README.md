@@ -32,6 +32,9 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 -  470 - 690 MHz
 - https://de.wikipedia.org/wiki/DVB-T2
 - https://de.wikipedia.org/wiki/DVB-T2_HD
+- https://www.hauppauge.de/site/products/data_solohd.html
+- https://www.hauppauge.de/site/products/data_dualhd.html
+- https://www.hauppauge.de/site/products/data_wintv_v10.html
 
 ### DVB-S
 - Fernsehen
@@ -40,6 +43,8 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - LNB: 950 – 2175 MHz
 - https://de.wikipedia.org/wiki/DVB-S
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
+- https://www.hauppauge.de/site/products/data_nova-s2.html
+- https://www.hauppauge.de/site/products/data_wintv_v10.html
 
 ### ADS-B
 - Position von Flugzeuge
