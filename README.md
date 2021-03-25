@@ -12,6 +12,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
 - https://en.wikipedia.org/wiki/Band_II
 - https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
+- https://airspy.com/download/
 
 ### DABplus
 - Radio
