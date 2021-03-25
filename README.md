@@ -37,7 +37,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - Fernsehen
 - auch DVB-S / DVB-S2
 - Satellitenfrequenz: 10.7 – 11.75 MHz oder 11.8 – 12.75 GHz
-- LNB: 950 – 2150 MHz
+- LNB: 950 – 2175 MHz
 - https://de.wikipedia.org/wiki/DVB-S
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
 
