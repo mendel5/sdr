@@ -57,8 +57,12 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 
 ### Airband
 - Flugfunk
--  117.975 - 137 MHz
+- 108 - 137 MHz
+- 108 - 117.95 MHz, 50 kHz steps: reserved for navigational aids
+- 118 - 136.975 MHz, 25 kHz steps, AM
+- 117.975 - 137 MHz
 - https://de.wikipedia.org/wiki/Flugfunk
+- https://en.wikipedia.org/wiki/Airband
 - SDRsharp / SDR#
 
 ### AIS
