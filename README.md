@@ -76,6 +76,7 @@ Theoretical use cases. Not intended for practical application.
 ### GNSS
 - General positioning
 - GPS, Galileo, Glonass, Beidou
+- https://de.wikipedia.org/wiki/Globales_Navigationssatellitensystem
 - https://gnss-sdr.org/
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-gps-decoding-plotting/
 
