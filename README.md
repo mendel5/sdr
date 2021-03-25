@@ -77,6 +77,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - Position
 - GPS, Galileo, Glonass, Beidou
 - https://gnss-sdr.org/
+- https://www.rtl-sdr.com/rtl-sdr-tutorial-gps-decoding-plotting/
 
 ## Other stuff
 - Fernsehen: DVB-C
