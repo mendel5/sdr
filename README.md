@@ -49,6 +49,11 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - AIS 2: 162.025 MHz (Kanal 88B)
 - https://de.wikipedia.org/wiki/Automatic_Identification_System
 
+### GNSS
+- Position
+- GPS, Galileo, Glonass, Beidou
+- https://gnss-sdr.org/
+
 ## Other stuff
 - Fernsehen: DVB-C
 - IPTV
