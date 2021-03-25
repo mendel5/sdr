@@ -63,6 +63,7 @@ Create theoretical guides for the following standards/ use cases. Not intended f
 - 117.975 - 137 MHz
 - https://de.wikipedia.org/wiki/Flugfunk
 - https://en.wikipedia.org/wiki/Airband
+- https://skyvector.com/airports
 - SDRsharp / SDR#
 
 ### AIS
