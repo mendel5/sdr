@@ -84,8 +84,9 @@ Theoretical use cases. Not intended for practical application.
 - General positioning
 - GPS, Galileo, Glonass, Beidou
 - https://de.wikipedia.org/wiki/Globales_Navigationssatellitensystem
-- https://gnss-sdr.org/
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-gps-decoding-plotting/
+- https://gnss-sdr.org/
+- https://github.com/gnss-sdr/gnss-sdr
 
 ## Other stuff
 - Television: DVB-C
