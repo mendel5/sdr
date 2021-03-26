@@ -54,6 +54,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.rtl-sdr.com/signalseverywhere-ads-b-aircraft-tracking-with-rtl-sdr-dump1090-and-virtual-radar-server/
 - https://www.virtualradarserver.co.uk/
 - https://github.com/antirez/dump1090
+- https://globe.adsbexchange.com/
 - https://www.flightradar24.com
 - https://www.radarbox.com
 - https://flightaware.com/live/
