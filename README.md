@@ -59,6 +59,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.radarbox.com
 - https://flightaware.com/live/
 - https://github.com/adsbxchange/adsb-exchange
+- https://github.com/jprochazka/adsb-receiver
 
 ### Airband
 - also known as Flugfunk
