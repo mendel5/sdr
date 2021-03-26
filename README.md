@@ -55,6 +55,8 @@ Theoretical use cases. Not intended for practical application.
 - https://www.virtualradarserver.co.uk/
 - https://github.com/antirez/dump1090
 - https://www.flightradar24.com
+- https://www.radarbox.com
+- https://flightaware.com/live/
 
 ### Airband
 - also known as Flugfunk
