@@ -54,6 +54,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.rtl-sdr.com/signalseverywhere-ads-b-aircraft-tracking-with-rtl-sdr-dump1090-and-virtual-radar-server/
 - https://www.virtualradarserver.co.uk/
 - https://github.com/antirez/dump1090
+- https://www.flightradar24.com
 
 ### Airband
 - also known as Flugfunk
@@ -72,6 +73,8 @@ Theoretical use cases. Not intended for practical application.
 - AIS 2: 162.025 MHz (Kanal 88B)
 - https://de.wikipedia.org/wiki/Automatic_Identification_System
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-cheap-ais-ship-tracking/
+- https://www.marinetraffic.com
+- https://www.vesselfinder.com
 
 ### GNSS
 - General positioning
