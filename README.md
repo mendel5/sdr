@@ -1,6 +1,12 @@
 # sdr
 Software defined radio
 
+## Intro
+- [Youtube: Getting Started with the RTL-SDR (Software Defined Radio)](https://www.youtube.com/watch?v=C01wLvwjLIs)
+- https://www.onesdr.com/
+- https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
+- https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
+
 ## Overview
 Theoretical use cases. Not intended for practical application.
 
@@ -88,6 +94,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-gps-decoding-plotting/
 - https://gnss-sdr.org/
 - https://github.com/gnss-sdr/gnss-sdr
+- https://www.onesdr.com/list-of-gnss-frequency-and-accuracy/
 
 ## Other stuff
 - Television: DVB-C
