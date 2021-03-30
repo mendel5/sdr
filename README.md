@@ -115,3 +115,4 @@ Theoretical use cases. Not intended for practical application.
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
+- http://www.csgnetwork.com/antennaedcalc.html
