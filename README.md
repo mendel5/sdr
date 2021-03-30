@@ -111,6 +111,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio)](https://www.youtube.com/watch?v=C01wLvwjLIs)
+- [Youtube: The Coolest Radio You've Probably Never Heard Of](https://www.youtube.com/watch?v=h4x7cGALaC8)
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
