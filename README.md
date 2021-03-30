@@ -1,11 +1,21 @@
 # sdr
 Software defined radio
 
-## Intro
+## Links
+- https://en.wikipedia.org/wiki/Software-defined_radio
+- https://www.rtl-sdr.com/about-rtl-sdr/
+- https://www.rtl-sdr.com/category/applications/
+- https://www.rtl-sdr.com/tag/applications-2/
+- https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
+- https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
+- https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
+- https://www.ard-digital.de/
+- https://satellitenempfang.info
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio)](https://www.youtube.com/watch?v=C01wLvwjLIs)
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
+
 
 ## Overview
 Theoretical use cases. Not intended for practical application.
@@ -86,6 +96,7 @@ Theoretical use cases. Not intended for practical application.
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-cheap-ais-ship-tracking/
 - https://www.marinetraffic.com
 - https://www.vesselfinder.com
+- https://news.ycombinator.com/item?id=26625908
 
 ### GNSS
 - General positioning
@@ -104,14 +115,3 @@ Theoretical use cases. Not intended for practical application.
 - VHF & UHF Radio Monitoring
 - HAM radio
 - Weather fax / satellite
-
-## Links
-- https://en.wikipedia.org/wiki/Software-defined_radio
-- https://www.rtl-sdr.com/about-rtl-sdr/
-- https://www.rtl-sdr.com/category/applications/
-- https://www.rtl-sdr.com/tag/applications-2/
-- https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
-- https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
-- https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
-- https://www.ard-digital.de/
-- https://satellitenempfang.info
