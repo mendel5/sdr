@@ -114,6 +114,9 @@ Theoretical use cases. Not intended for practical application.
 - https://satellitenempfang.info
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio)](https://www.youtube.com/watch?v=C01wLvwjLIs)
 - [Youtube: The Coolest Radio You've Probably Never Heard Of](https://www.youtube.com/watch?v=h4x7cGALaC8)
+- [Youtube: The Beginner's Guide To Software Defined Radio RTL-SDR](https://www.youtube.com/watch?v=nB6XQSEFwVA)
+- [Youtube: 5 Cool Things You Can Do With An RTL SDR Receiver](https://www.youtube.com/watch?v=9QzklSyKqQM)
+- [Youtube: 5 Cool Things You Can Do With An AIRSPY SDR Receiver](https://www.youtube.com/watch?v=Zq12KeRSx8Y)
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
