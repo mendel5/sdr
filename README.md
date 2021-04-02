@@ -125,4 +125,4 @@ Theoretical use cases. Not intended for practical application.
 - [Youtube: The Beginner's Guide To Software Defined Radio RTL-SDR - Tech Minds](https://www.youtube.com/watch?v=nB6XQSEFwVA)
 - [Youtube: 5 Cool Things You Can Do With An RTL SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=9QzklSyKqQM)
 - [Youtube: 5 Cool Things You Can Do With An AIRSPY SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=Zq12KeRSx8Y)
-- [Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
+- [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
