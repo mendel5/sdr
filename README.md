@@ -93,6 +93,12 @@ Theoretical use cases. Not intended for practical application.
 - https://github.com/gnss-sdr/gnss-sdr
 - https://www.onesdr.com/list-of-gnss-frequency-and-accuracy/
 
+### Weather station
+- Local consumer weather station
+- 433 MHz or 868 MHz
+- https://www.kompf.de/weather/rtlsdrsensor.html
+- https://github.com/skaringa/weather-sdr-decode
+
 ## Other stuff
 - Television: DVB-C
 - IPTV
