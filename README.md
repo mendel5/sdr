@@ -134,3 +134,12 @@ Theoretical use cases. Not intended for practical application.
 - [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
 - [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
 - [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
+
+## Reddit
+https://www.reddit.com/r/RTLSDR/
+https://www.reddit.com/r/sdr/
+https://www.reddit.com/r/amateurradio/
+https://www.reddit.com/r/HamRadio/
+https://www.reddit.com/r/rfelectronics/
+https://www.reddit.com/r/amateursatellites/
+https://www.reddit.com/r/ADSB/
