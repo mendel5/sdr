@@ -136,10 +136,10 @@ Theoretical use cases. Not intended for practical application.
 - [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
 
 ## Reddit
-https://www.reddit.com/r/RTLSDR/
-https://www.reddit.com/r/sdr/
-https://www.reddit.com/r/amateurradio/
-https://www.reddit.com/r/HamRadio/
-https://www.reddit.com/r/rfelectronics/
-https://www.reddit.com/r/amateursatellites/
-https://www.reddit.com/r/ADSB/
+- https://www.reddit.com/r/RTLSDR/
+- https://www.reddit.com/r/sdr/
+- https://www.reddit.com/r/amateurradio/
+- https://www.reddit.com/r/HamRadio/
+- https://www.reddit.com/r/rfelectronics/
+- https://www.reddit.com/r/amateursatellites/
+- https://www.reddit.com/r/ADSB/
