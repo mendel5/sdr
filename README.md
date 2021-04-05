@@ -132,3 +132,5 @@ Theoretical use cases. Not intended for practical application.
 - [Youtube: 5 Cool Things You Can Do With An RTL SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=9QzklSyKqQM)
 - [Youtube: 5 Cool Things You Can Do With An AIRSPY SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=Zq12KeRSx8Y)
 - [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
+- [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
+- [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
