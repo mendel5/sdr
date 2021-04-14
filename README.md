@@ -74,6 +74,12 @@ Theoretical use cases. Not intended for practical application.
 - https://skyvector.com/airports
 - SDRsharp / SDR#
 
+### Marine band
+- Marine VHF radio
+- 156 - 162 MHz
+- https://de.wikipedia.org/wiki/Mobiler_Seefunkdienst_(Ultrakurzwelle)
+- https://en.wikipedia.org/wiki/Marine_VHF_radio
+
 ### AIS
 - Marine vessel positioning
 - AIS 1: 161.975 MHz (Kanal 87B)
@@ -101,20 +107,25 @@ Theoretical use cases. Not intended for practical application.
 - https://www.kompf.de/weather/rtlsdrsensor.html
 - https://github.com/skaringa/weather-sdr-decode
 
+### Amateur radio
+- also known as HAM radio
+- 144 - 146 MHz
+- 430 - 440 MHz
+- https://de.wikipedia.org/wiki/Amateurfunkdienst
+- https://en.wikipedia.org/wiki/Amateur_radio
+- https://de.wikipedia.org/wiki/Notfunk
+- https://de.wikipedia.org/wiki/2-Meter-Band
+- https://de.wikipedia.org/wiki/70-Zentimeter-Band
+
+### Citizens band radio
+- also known as CB-Funk
+- 26.565 - 27.405 MHz (80 channels)
+- https://de.wikipedia.org/wiki/CB-Funk
+- https://en.wikipedia.org/wiki/Citizens_band_radio
+- CB-Funk vs. Amateurfunk: http://www.jan-pawlowski.de/funktechnik.html , https://www.amateurradio.uni-halle.de/glossary/funk-faq.de.html
+
 ## Todo
-- VHF & UHF Radio Monitoring
-- HAM radio
-- Weather fax / satellite
-
-
-
-//
-
-- CB-Funk, 26.565 - 27.405 MHz (80 channels), https://de.wikipedia.org/wiki/CB-Funk
-- Amateurfunkdienst, 144 - 146 MHz, 430 - 440 MHz, https://de.wikipedia.org/wiki/Amateurfunkdienst
-- CB-Funk vs Amateurfunk: http://www.jan-pawlowski.de/funktechnik.html , https://www.amateurradio.uni-halle.de/glossary/funk-faq.de.html
-- Marine band, Marine VHF radio, 156 - 162 MHz, https://en.wikipedia.org/wiki/Marine_VHF_radio , https://de.wikipedia.org/wiki/Mobiler_Seefunkdienst_(Ultrakurzwelle)
-- Notfunk, 144 - 145 MHz, https://de.wikipedia.org/wiki/Notfunk
+- Weather fax / satellite (NOAA)
 
 ## Related things
 - Television: DVB-C
