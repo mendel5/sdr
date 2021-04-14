@@ -108,8 +108,15 @@ Theoretical use cases. Not intended for practical application.
 - HAM radio
 - Weather fax / satellite
 
+
+
 ## Links
+
+### Wikipedia
 - https://en.wikipedia.org/wiki/Software-defined_radio
+
+
+### General
 - https://www.rtl-sdr.com/about-rtl-sdr/
 - https://www.rtl-sdr.com/category/applications/
 - https://www.rtl-sdr.com/tag/applications-2/
@@ -125,7 +132,7 @@ Theoretical use cases. Not intended for practical application.
 - http://www.csgnetwork.com/antennaedcalc.html
 - https://wiki.ubuntuusers.de/Gqrx/
 
-## Youtube
+### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
 - [Youtube: The Coolest Radio You've Probably Never Heard Of - Tom the Dilettante](https://www.youtube.com/watch?v=h4x7cGALaC8)
 - [Youtube: The Beginner's Guide To Software Defined Radio RTL-SDR - Tech Minds](https://www.youtube.com/watch?v=nB6XQSEFwVA)
@@ -135,7 +142,7 @@ Theoretical use cases. Not intended for practical application.
 - [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
 - [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
 
-## Reddit
+### Reddit
 - https://www.reddit.com/r/RTLSDR/
 - https://www.reddit.com/r/sdr/
 - https://www.reddit.com/r/amateurradio/
