@@ -114,7 +114,10 @@ Theoretical use cases. Not intended for practical application.
 
 ### Wikipedia
 - https://en.wikipedia.org/wiki/Software-defined_radio
-
+- https://en.wikipedia.org/wiki/Electromagnetic_spectrum
+- https://de.wikipedia.org/wiki/Elektromagnetisches_Spektrum
+- https://en.wikipedia.org/wiki/Radio_spectrum
+- https://de.wikipedia.org/wiki/Frequenzband
 
 ### General
 - https://www.rtl-sdr.com/about-rtl-sdr/
