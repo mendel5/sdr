@@ -99,19 +99,18 @@ Theoretical use cases. Not intended for practical application.
 - https://www.kompf.de/weather/rtlsdrsensor.html
 - https://github.com/skaringa/weather-sdr-decode
 
-## Other stuff
-- Television: DVB-C
-- IPTV
-- IP Radio
-- Streaming / Mediathek
+## Todo
 - VHF & UHF Radio Monitoring
 - HAM radio
 - Weather fax / satellite
 
-
+## Related things
+- Television: DVB-C
+- IPTV
+- IP Radio
+- Streaming / Mediathek
 
 ## Links
-
 ### Wikipedia
 - https://en.wikipedia.org/wiki/Software-defined_radio
 - https://en.wikipedia.org/wiki/Electromagnetic_spectrum
