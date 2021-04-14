@@ -48,6 +48,17 @@ Theoretical use cases. Not intended for practical application.
 - https://www.hauppauge.de/site/products/data_nova-s2.html
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
 
+### Air band
+- also known as Flugfunk
+- 108 - 137 MHz
+- 108 - 117.95 MHz, 50 kHz steps: reserved for navigational aids
+- 118 - 136.975 MHz, 25 kHz steps, AM
+- 117.975 - 137 MHz
+- https://de.wikipedia.org/wiki/Flugfunk
+- https://en.wikipedia.org/wiki/Airband
+- https://skyvector.com/airports
+- SDRsharp / SDR#
+
 ### ADS-B
 - Aircraft positioning
 - 1090 MHz
@@ -62,17 +73,6 @@ Theoretical use cases. Not intended for practical application.
 - https://flightaware.com/live/
 - https://github.com/adsbxchange/adsb-exchange
 - https://github.com/jprochazka/adsb-receiver
-
-### Air band
-- also known as Flugfunk
-- 108 - 137 MHz
-- 108 - 117.95 MHz, 50 kHz steps: reserved for navigational aids
-- 118 - 136.975 MHz, 25 kHz steps, AM
-- 117.975 - 137 MHz
-- https://de.wikipedia.org/wiki/Flugfunk
-- https://en.wikipedia.org/wiki/Airband
-- https://skyvector.com/airports
-- SDRsharp / SDR#
 
 ### Marine band
 - Marine VHF radio
