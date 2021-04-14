@@ -104,6 +104,15 @@ Theoretical use cases. Not intended for practical application.
 - HAM radio
 - Weather fax / satellite
 
+
+
+//
+
+- CB-Funk, 26.565 - 27.405 MHz (80 channels), https://de.wikipedia.org/wiki/CB-Funk
+- Amateurfunkdienst, 144 - 146 MHz, 430 - 440 MHz, https://de.wikipedia.org/wiki/Amateurfunkdienst
+- CB-Funk vs Amateurfunk: http://www.jan-pawlowski.de/funktechnik.html , https://www.amateurradio.uni-halle.de/glossary/funk-faq.de.html
+- Marine VHF radio, 156 - 162 MHz, https://en.wikipedia.org/wiki/Marine_VHF_radio , https://de.wikipedia.org/wiki/Mobiler_Seefunkdienst_(Ultrakurzwelle)
+
 ## Related things
 - Television: DVB-C
 - IPTV
