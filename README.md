@@ -9,9 +9,9 @@ Theoretical use cases. Not intended for practical application.
 - also known as UKW-Radio
 - VHF-Band II, 87.5 - 108 MHz
 - https://de.wikipedia.org/wiki/UKW-Rundfunk
-- https://de.wikipedia.org/wiki/H%C3%B6rfunk
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
 - https://en.wikipedia.org/wiki/Band_II
+- https://de.wikipedia.org/wiki/H%C3%B6rfunk
 - https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
 - SDRsharp / SDR#
 
