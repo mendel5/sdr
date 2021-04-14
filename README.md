@@ -43,6 +43,7 @@ Theoretical use cases. Not intended for practical application.
 - LNB: 950 - 2175 MHz
 - https://de.wikipedia.org/wiki/DVB-S
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
+- https://de.wikipedia.org/wiki/Satellitenrundfunk
 - https://www.hauppauge.de/site/products/data_nova-s2.html
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
 
