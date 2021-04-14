@@ -61,7 +61,7 @@ Theoretical use cases. Not intended for practical application.
 - https://github.com/adsbxchange/adsb-exchange
 - https://github.com/jprochazka/adsb-receiver
 
-### Airband
+### Air band
 - also known as Flugfunk
 - 108 - 137 MHz
 - 108 - 117.95 MHz, 50 kHz steps: reserved for navigational aids
@@ -111,7 +111,7 @@ Theoretical use cases. Not intended for practical application.
 - CB-Funk, 26.565 - 27.405 MHz (80 channels), https://de.wikipedia.org/wiki/CB-Funk
 - Amateurfunkdienst, 144 - 146 MHz, 430 - 440 MHz, https://de.wikipedia.org/wiki/Amateurfunkdienst
 - CB-Funk vs Amateurfunk: http://www.jan-pawlowski.de/funktechnik.html , https://www.amateurradio.uni-halle.de/glossary/funk-faq.de.html
-- Marine VHF radio, 156 - 162 MHz, https://en.wikipedia.org/wiki/Marine_VHF_radio , https://de.wikipedia.org/wiki/Mobiler_Seefunkdienst_(Ultrakurzwelle)
+- Marine band, Marine VHF radio, 156 - 162 MHz, https://en.wikipedia.org/wiki/Marine_VHF_radio , https://de.wikipedia.org/wiki/Mobiler_Seefunkdienst_(Ultrakurzwelle)
 - Notfunk, 144 - 145 MHz, https://de.wikipedia.org/wiki/Notfunk
 
 ## Related things
