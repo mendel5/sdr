@@ -1,5 +1,5 @@
 # sdr
-Software defined radio
+Overview of Use Cases and Applications for Software Defined Radio (SDR)
 
 ## Overview
 Theoretical use cases. Not intended for practical application.
@@ -94,7 +94,7 @@ Theoretical use cases. Not intended for practical application.
 
 ### GNSS
 - General positioning
-- GPS, Galileo, Glonass, Beidou
+- GPS (USA), Galileo (EU), Glonass (Russia), Beidou (China), Navic (India), QZSS (Japan)
 - https://de.wikipedia.org/wiki/Globales_Navigationssatellitensystem
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-gps-decoding-plotting/
 - https://gnss-sdr.org/
