@@ -165,6 +165,7 @@ For educational purposes only. Not intended for practical application.
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
 - http://www.csgnetwork.com/antennaedcalc.html
 - https://wiki.ubuntuusers.de/Gqrx/
+- https://gqrx.dk/
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
