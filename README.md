@@ -166,6 +166,7 @@ For educational purposes only. Not intended for practical application.
 - http://www.csgnetwork.com/antennaedcalc.html
 - https://wiki.ubuntuusers.de/Gqrx/
 - https://gqrx.dk/
+- https://github.com/jopohl/urh Universal Radio Hacker
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
