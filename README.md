@@ -100,6 +100,8 @@ For educational purposes only. Not intended for practical application.
 - https://gnss-sdr.org/
 - https://github.com/gnss-sdr/gnss-sdr
 - https://www.onesdr.com/list-of-gnss-frequency-and-accuracy/
+- https://berthub.eu/articles/posts/galmon-project/
+- https://galmon.eu/
 
 ### Weather station
 - Local consumer weather station
