@@ -164,9 +164,11 @@ For educational purposes only. Not intended for practical application.
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
 - http://www.csgnetwork.com/antennaedcalc.html
-- https://wiki.ubuntuusers.de/Gqrx/
+- https://github.com/csete/gqrx
 - https://gqrx.dk/
+- https://wiki.ubuntuusers.de/Gqrx/
 - https://github.com/jopohl/urh Universal Radio Hacker
+- https://github.com/merbanan/rtl_433
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
