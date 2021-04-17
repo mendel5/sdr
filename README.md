@@ -104,12 +104,6 @@ For educational purposes only. Not intended for practical application.
 - https://berthub.eu/articles/posts/galmon-project/
 - https://galmon.eu/
 
-### Weather station
-- Local consumer weather station
-- 433 MHz or 868 MHz
-- https://www.kompf.de/weather/rtlsdrsensor.html
-- https://github.com/skaringa/weather-sdr-decode
-
 ### Amateur radio
 - also known as HAM radio
 - 144 - 146 MHz
@@ -126,6 +120,17 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/CB-Funk
 - https://en.wikipedia.org/wiki/Citizens_band_radio
 - CB-Funk vs. Amateurfunk: http://www.jan-pawlowski.de/funktechnik.html , https://www.amateurradio.uni-halle.de/glossary/funk-faq.de.html
+
+### Weather station
+- Local consumer weather station
+- 433 MHz or 868 MHz
+- https://www.kompf.de/weather/rtlsdrsensor.html
+- https://github.com/skaringa/weather-sdr-decode
+
+### Weather satellite
+- NOAA
+- [Youtube: How to Pull Images from Satellites in Orbit Part 1 (NOAA 15,18,19 and METEOR M2) - The Thought Emporium](https://www.youtube.com/watch?v=cjClTnZ4Xh4)
+- [Youtube: Receiving Images From Satellites Part 2: Decoding and Demodulating NOAA and METEOR Transmissions - The Thought Emporium](https://www.youtube.com/watch?v=L3ftfGag7D8)
 
 ## Todo
 - Weather fax / satellite (NOAA)
@@ -146,6 +151,7 @@ For educational purposes only. Not intended for practical application.
 
 ### General
 - https://www.rtl-sdr.com/about-rtl-sdr/
+- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 - https://www.rtl-sdr.com/category/applications/
 - https://www.rtl-sdr.com/tag/applications-2/
 - https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
