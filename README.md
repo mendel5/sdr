@@ -169,6 +169,7 @@ For educational purposes only. Not intended for practical application.
 - https://wiki.ubuntuusers.de/Gqrx/
 - https://github.com/jopohl/urh Universal Radio Hacker
 - https://github.com/merbanan/rtl_433
+- https://github.com/bemasher/rtlamr
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
 - https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png
 
