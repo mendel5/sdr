@@ -48,7 +48,7 @@ For educational purposes only. Not intended for practical application.
 - Television, satellite based
 - also known as DVB-S / DVB-S2
 - Satellite frequency: 10.7 - 11.75 GHz or 11.8 - 12.75 GHz
-- LNB: 950 - 2175 MHz
+- LNB: 950 - 2175 MHz (Low-noise block downconverter)
 - https://de.wikipedia.org/wiki/DVB-S
 - https://de.wikipedia.org/wiki/Rauscharmer_Signalumsetzer
 - https://de.wikipedia.org/wiki/Satellitenrundfunk
