@@ -23,6 +23,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/T-DAB-Frequenz
 - https://de.wikipedia.org/wiki/VHF-Band_III
 - https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
+- http://www.digitalradio-in-deutschland.de/hamburg/ <-- Actual frequencies
 - https://github.com/AlbrechtL/welle.io
 - https://github.com/JvanKatwijk/qt-dab
 - https://qirx.softsyst.com/
@@ -34,7 +35,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/DVB-T2
 - https://de.wikipedia.org/wiki/DVB-T2_HD
 - https://www.ndr.de/der_ndr/empfang_und_technik/dvbtzweidatenblatthhsh100.pdf
-- https://tvhelfer.de/dvbt2/de/hh
+- https://tvhelfer.de/dvbt2/de/hh <-- Actual frequencies
 - http://www.dehnmedia.de/?page=sender&subpage=tsender6
 - https://www.hauppauge.de/site/products/data_solohd.html
 - https://www.hauppauge.de/site/products/data_dualhd.html
