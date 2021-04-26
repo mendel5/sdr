@@ -33,6 +33,9 @@ For educational purposes only. Not intended for practical application.
 -  470 - 690 MHz
 - https://de.wikipedia.org/wiki/DVB-T2
 - https://de.wikipedia.org/wiki/DVB-T2_HD
+- https://www.ndr.de/der_ndr/empfang_und_technik/dvbtzweidatenblatthhsh100.pdf
+- https://tvhelfer.de/dvbt2/de/hh
+- http://www.dehnmedia.de/?page=sender&subpage=tsender6
 - https://www.hauppauge.de/site/products/data_solohd.html
 - https://www.hauppauge.de/site/products/data_dualhd.html
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
