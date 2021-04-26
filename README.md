@@ -158,7 +158,7 @@ For educational purposes only. Not intended for practical application.
 
 ### General
 - https://www.rtl-sdr.com/about-rtl-sdr/
-- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
+- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ <-- Installation guide for Windows and Linux
 - https://www.rtl-sdr.com/category/applications/
 - https://www.rtl-sdr.com/tag/applications-2/
 - https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
