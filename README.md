@@ -166,6 +166,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
+- https://en.wikipedia.org/wiki/List_of_software-defined_radios
 - https://airspy.com/download/ SDRsharp / SDR#
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
