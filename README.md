@@ -170,7 +170,7 @@ For educational purposes only. Not intended for practical application.
 - https://airspy.com/download/ - SDRsharp / SDR#
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
-- https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
+- https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series - Device comparison
 - http://www.csgnetwork.com/antennaedcalc.html - Antenna length calculator
 - https://github.com/csete/gqrx
 - https://gqrx.dk/
