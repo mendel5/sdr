@@ -181,6 +181,10 @@ For educational purposes only. Not intended for practical application.
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
 - https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
 - https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
+- https://pysdr.org/
+- https://github.com/pysdr/pysdr
+- https://www.rtl-sdr.com/pysdr-a-free-guide-to-sdr-and-dsp-using-python/
+- https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
