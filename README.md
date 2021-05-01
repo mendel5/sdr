@@ -171,7 +171,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
-- http://www.csgnetwork.com/antennaedcalc.html
+- http://www.csgnetwork.com/antennaedcalc.html - Antenna length calculator
 - https://github.com/csete/gqrx
 - https://gqrx.dk/
 - https://wiki.ubuntuusers.de/Gqrx/
@@ -181,6 +181,7 @@ For educational purposes only. Not intended for practical application.
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
 - https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
 - https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
+- https://www.qsl.net/w4hn/antennaCalc.htm - Antenna length calculator
 - https://pysdr.org/
 - https://github.com/pysdr/pysdr
 - https://www.rtl-sdr.com/pysdr-a-free-guide-to-sdr-and-dsp-using-python/
