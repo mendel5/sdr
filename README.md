@@ -12,7 +12,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
 - https://en.wikipedia.org/wiki/Band_II
 - https://de.wikipedia.org/wiki/H%C3%B6rfunk
-- https://radiomap.eu/de/hamburg <-- Actual frequencies
+- https://radiomap.eu/de/hamburg - Actual frequencies
 - https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
 - SDRsharp / SDR#
 
@@ -24,7 +24,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/T-DAB-Frequenz
 - https://de.wikipedia.org/wiki/VHF-Band_III
 - https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
-- http://www.digitalradio-in-deutschland.de/hamburg/ <-- Actual frequencies
+- http://www.digitalradio-in-deutschland.de/hamburg/ - Actual frequencies
 - https://github.com/AlbrechtL/welle.io
 - https://github.com/JvanKatwijk/qt-dab
 - https://qirx.softsyst.com/
@@ -36,7 +36,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/DVB-T2
 - https://de.wikipedia.org/wiki/DVB-T2_HD
 - https://www.ndr.de/der_ndr/empfang_und_technik/dvbtzweidatenblatthhsh100.pdf
-- https://tvhelfer.de/dvbt2/de/hh <-- Actual frequencies
+- https://tvhelfer.de/dvbt2/de/hh - Actual frequencies
 - http://www.dehnmedia.de/?page=sender&subpage=tsender6
 - https://www.hauppauge.de/site/products/data_solohd.html
 - https://www.hauppauge.de/site/products/data_dualhd.html
@@ -158,7 +158,7 @@ For educational purposes only. Not intended for practical application.
 
 ### General
 - https://www.rtl-sdr.com/about-rtl-sdr/
-- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ <-- Installation guide for Windows and Linux
+- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ - Installation guide for Windows and Linux
 - https://www.rtl-sdr.com/category/applications/
 - https://www.rtl-sdr.com/tag/applications-2/
 - https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
@@ -167,7 +167,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
 - https://en.wikipedia.org/wiki/List_of_software-defined_radios
-- https://airspy.com/download/ SDRsharp / SDR#
+- https://airspy.com/download/ - SDRsharp / SDR#
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series
@@ -175,7 +175,7 @@ For educational purposes only. Not intended for practical application.
 - https://github.com/csete/gqrx
 - https://gqrx.dk/
 - https://wiki.ubuntuusers.de/Gqrx/
-- https://github.com/jopohl/urh Universal Radio Hacker
+- https://github.com/jopohl/urh - Universal Radio Hacker
 - https://github.com/merbanan/rtl_433
 - https://github.com/bemasher/rtlamr
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
