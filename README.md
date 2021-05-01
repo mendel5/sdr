@@ -179,8 +179,8 @@ For educational purposes only. Not intended for practical application.
 - https://github.com/merbanan/rtl_433
 - https://github.com/bemasher/rtlamr
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
-- https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png
-- https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio
+- https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
+- https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
