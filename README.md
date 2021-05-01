@@ -110,6 +110,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.onesdr.com/list-of-gnss-frequency-and-accuracy/
 - https://berthub.eu/articles/posts/galmon-project/
 - https://galmon.eu/
+- https://www.everythingrf.com/community/gps-frequency-bands
 
 ### Amateur radio
 - also known as HAM radio
@@ -186,6 +187,14 @@ For educational purposes only. Not intended for practical application.
 - https://github.com/pysdr/pysdr
 - https://www.rtl-sdr.com/pysdr-a-free-guide-to-sdr-and-dsp-using-python/
 - https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
+- https://www.everythingrf.com/community/what-is-the-difference-between-a-monopole-and-dipole-antenna
+- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Monopole-Antennas
+- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Dipole-Antennas
+- https://www.everythingrf.com/community/what-is-a-bias-tee
+- https://www.everythingrf.com/community/what-is-dbi
+- https://www.everythingrf.com/community/lte-frequency-bands
+- https://www.everythingrf.com/community/5g-frequency-bands
+- https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
