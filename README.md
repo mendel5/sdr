@@ -1,8 +1,9 @@
 # sdr
-Overview of Use Cases and Applications for Software Defined Radio (SDR)
+Overview of Use Cases and Applications for Software Defined Radios (SDR).
+
+For educational purposes only. Not intended for practical application.
 
 ## Overview
-For educational purposes only. Not intended for practical application.
 
 ### FM broadcasting
 - Radio, terrestrial, analog
