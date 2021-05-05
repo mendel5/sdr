@@ -149,6 +149,7 @@ For educational purposes only. Not intended for practical application.
 - https://forum.amsat-dl.org/index.php?thread/101-software-dvb-s-demodulator/
 - https://www.rtl-sdr.com/demodulating-dvb-s-digital-amateur-tv-with-sdrangel-on-windows-with-an-sdr/
 - https://www.rtl-sdr.com/transmitting-and-receiving-datv-with-a-limesdr-and-a-modified-20-dvb-s-receiver/
+- https://en.wikipedia.org/wiki/Television_in_Germany
 
 ## Related things
 - Television: DVB-C
