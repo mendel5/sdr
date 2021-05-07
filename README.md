@@ -208,6 +208,9 @@ For educational purposes only. Not intended for practical application.
 - qt-dab: https://github.com/JvanKatwijk/qt-dab
 - QIRX: https://qirx.softsyst.com/
 - DVBViewer: https://www.dvbviewer.com/en/index.php and https://en.wikipedia.org/wiki/DVBViewer
+- Tvheadend: https://tvheadend.org/ and https://en.wikipedia.org/wiki/Tvheadend
+- Tvheadend: https://github.com/tvheadend/tvheadend
+- Kaffeine: https://en.wikipedia.org/wiki/Kaffeine
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
