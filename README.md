@@ -210,7 +210,7 @@ For educational purposes only. Not intended for practical application.
 - DVBViewer: https://www.dvbviewer.com/en/index.php and https://en.wikipedia.org/wiki/DVBViewer
 - Tvheadend: https://tvheadend.org/ and https://en.wikipedia.org/wiki/Tvheadend
 - Tvheadend: https://github.com/tvheadend/tvheadend
-- Kaffeine: https://en.wikipedia.org/wiki/Kaffeine
+- Kaffeine: https://en.wikipedia.org/wiki/Kaffeine and https://wiki.ubuntuusers.de/Kaffeine/
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
