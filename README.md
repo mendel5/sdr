@@ -54,6 +54,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/Satellitenrundfunk
 - https://www.hauppauge.de/site/products/data_nova-s2.html
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
+- https://www.dvbtstick.de/ratgeber/dvb-t-software
 
 ### Air band
 - also known as Flugfunk
