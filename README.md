@@ -26,9 +26,8 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/VHF-Band_III
 - https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
 - http://www.digitalradio-in-deutschland.de/hamburg/ - Actual frequencies
-- https://github.com/AlbrechtL/welle.io
-- https://github.com/JvanKatwijk/qt-dab
-- https://qirx.softsyst.com/
+- welle.io (see Software section)
+- qt-dab (see Software section)
 
 ### DVB-T
 - Television, terrestrial
@@ -176,17 +175,10 @@ For educational purposes only. Not intended for practical application.
 - https://www.ard-digital.de/
 - https://satellitenempfang.info
 - https://en.wikipedia.org/wiki/List_of_software-defined_radios
-- https://airspy.com/download/ - SDRsharp / SDR#
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
 - https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series - Device comparison
 - http://www.csgnetwork.com/antennaedcalc.html - Antenna length calculator
-- https://github.com/csete/gqrx
-- https://gqrx.dk/
-- https://wiki.ubuntuusers.de/Gqrx/
-- https://github.com/jopohl/urh - Universal Radio Hacker
-- https://github.com/merbanan/rtl_433
-- https://github.com/bemasher/rtlamr
 - https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
 - https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
 - https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
@@ -203,6 +195,19 @@ For educational purposes only. Not intended for practical application.
 - https://www.everythingrf.com/community/lte-frequency-bands
 - https://www.everythingrf.com/community/5g-frequency-bands
 - https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
+
+### Software
+- SDRsharp / SDR#: https://airspy.com/download/
+- Gqrx: https://github.com/csete/gqrx
+- Gqrx: https://gqrx.dk/
+- Gqrx: https://wiki.ubuntuusers.de/Gqrx/
+- Universal Radio Hacker (URH): https://github.com/jopohl/urh
+- rtl_433: https://github.com/merbanan/rtl_433
+- rtlamr: https://github.com/bemasher/rtlamr
+- welle.io: https://github.com/AlbrechtL/welle.io
+- qt-dab: https://github.com/JvanKatwijk/qt-dab
+- QIRX: https://qirx.softsyst.com/
+- DVBViewer: https://www.dvbviewer.com/en/index.php and https://en.wikipedia.org/wiki/DVBViewer
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
