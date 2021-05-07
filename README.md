@@ -43,6 +43,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.hauppauge.de/site/products/data_wintv_v10.html
 - DVB-T2 supports bandwidths of 1.7, 5, 6, 7, 8 and 10 MHz, while DVB-T only supports a bandwidth of 6, 7 and 8 MHz. Source: https://www.lokalkompass.de/duesseldorf/c-ratgeber/unterschied-dvb-t-und-dvb-t2-vom-experten-erklaert_a815969
 - DVB-T2 Bandwidth UHF 8 MHz. Source: https://download.hr.de/services/empfang-und-verbreitungswege/dvb-t2-hd/technische-parameter-dvb-t-zwei-100.pdf
+- https://www.enensys.com/technologies/dvb-t2/
 
 ### DVB-S
 - Television, satellite based
