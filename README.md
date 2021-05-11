@@ -147,8 +147,6 @@ For educational purposes only. Not intended for practical application.
 
 ## Todo
 - Weather fax / satellite (NOAA)
-- https://github.com/f4exb/sdrangel - Software
-- https://github.com/gnuradio/gnuradio - Software
 - https://rickcaylor.websitetoolbox.com/post/using-rtlsdr-for-dvbs2-10128573
 - https://forum.amsat-dl.org/index.php?thread/101-software-dvb-s-demodulator/
 - https://www.rtl-sdr.com/demodulating-dvb-s-digital-amateur-tv-with-sdrangel-on-windows-with-an-sdr/
@@ -206,6 +204,8 @@ For educational purposes only. Not intended for practical application.
 - Gqrx: https://github.com/csete/gqrx
 - Gqrx: https://gqrx.dk/
 - Gqrx: https://wiki.ubuntuusers.de/Gqrx/
+- GNU radio: https://github.com/gnuradio/gnuradio
+- SDRangel: https://github.com/f4exb/sdrangel
 - Universal Radio Hacker (URH): https://github.com/jopohl/urh
 - rtl_433: https://github.com/merbanan/rtl_433
 - rtlamr: https://github.com/bemasher/rtlamr
