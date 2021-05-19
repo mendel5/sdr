@@ -201,6 +201,7 @@ For educational purposes only. Not intended for practical application.
 
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
+- Zadig: https://zadig.akeo.ie/
 - Gqrx: https://github.com/csete/gqrx
 - Gqrx: https://gqrx.dk/
 - Gqrx: https://wiki.ubuntuusers.de/Gqrx/
