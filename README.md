@@ -139,6 +139,7 @@ For educational purposes only. Not intended for practical application.
 - 433 MHz or 868 MHz
 - https://www.kompf.de/weather/rtlsdrsensor.html
 - https://github.com/skaringa/weather-sdr-decode
+- rtl_433 (see Software)
 
 ### Weather satellite
 - NOAA
