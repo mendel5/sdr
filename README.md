@@ -150,7 +150,6 @@ For educational purposes only. Not intended for practical application.
 - https://old.reddit.com/r/RTLSDR/comments/nfueyb/i_am_going_to_get_hated_for_even_asking_this/gyo77on/
 - https://noaa-apt.mbernardi.com.ar/guide.html
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-noaa-weather-satellite-images/
-- 
 
 ## Todo
 - Weather fax / satellite (NOAA)
