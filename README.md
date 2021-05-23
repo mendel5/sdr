@@ -183,6 +183,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
 - https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
 - https://www.ard-digital.de/
+- https://www.youtube.com/channel/UCHSPXEOe6VG78r8HTGHuu8w/videos - ARD Digital erklärt
 - https://satellitenempfang.info
 - https://en.wikipedia.org/wiki/List_of_software-defined_radios
 - https://www.onesdr.com/
