@@ -158,6 +158,7 @@ For educational purposes only. Not intended for practical application.
 - https://www.rtl-sdr.com/demodulating-dvb-s-digital-amateur-tv-with-sdrangel-on-windows-with-an-sdr/
 - https://www.rtl-sdr.com/transmitting-and-receiving-datv-with-a-limesdr-and-a-modified-20-dvb-s-receiver/
 - https://en.wikipedia.org/wiki/Television_in_Germany
+- Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
 
 ## Related things
 - Television: DVB-C
