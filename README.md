@@ -145,6 +145,7 @@ For educational purposes only. Not intended for practical application.
 
 ### Weather satellite
 - NOAA
+- 137 MHz
 - [Youtube: How to Pull Images from Satellites in Orbit Part 1 (NOAA 15,18,19 and METEOR M2) - The Thought Emporium](https://www.youtube.com/watch?v=cjClTnZ4Xh4)
 - [Youtube: Receiving Images From Satellites Part 2: Decoding and Demodulating NOAA and METEOR Transmissions - The Thought Emporium](https://www.youtube.com/watch?v=L3ftfGag7D8)
 - https://old.reddit.com/r/RTLSDR/comments/nfueyb/i_am_going_to_get_hated_for_even_asking_this/gyo77on/
