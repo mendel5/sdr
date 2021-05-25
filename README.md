@@ -237,6 +237,7 @@ For educational purposes only. Not intended for practical application.
 - [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
 - [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
 - [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
+- [Youtube: SDRsharp für RTL SDR Stick auf Windows 10 installieren - Anleitung deutsch Howto](https://www.youtube.com/watch?v=d0JS0duC7BI)
 
 ### Reddit
 - https://www.reddit.com/r/RTLSDR/
