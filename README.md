@@ -31,7 +31,7 @@ For educational purposes only. Not intended for practical application.
 
 ### DVB-T
 - Television, terrestrial
-- also known as DVB-T / DVB-T2
+- also known as DVB-T / DVB-T2 / DVB-T2 HD
 -  470 - 690 MHz
 - https://de.wikipedia.org/wiki/DVB-T2
 - https://de.wikipedia.org/wiki/DVB-T2_HD
