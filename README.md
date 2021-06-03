@@ -73,7 +73,7 @@ For educational purposes only. Not intended for practical application.
 
 ### ADS-B
 - Aircraft positioning
-- also known as Mode S
+- also known as Mode S. ADS-B is an extension of the older Mode S protocol.
 - 1090 MHz
 - https://de.wikipedia.org/wiki/Automatic_Dependent_Surveillance
 - https://www.rtl-sdr.com/adsb-aircraft-radar-with-rtl-sdr/
