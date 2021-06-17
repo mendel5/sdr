@@ -161,6 +161,7 @@ For educational purposes only. Not intended for practical application.
 - https://en.wikipedia.org/wiki/Television_in_Germany
 - Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
 - PMR446, https://en.wikipedia.org/wiki/PMR446
+- https://www.teltarif.de/iptv-fernsehen-online-tv-streaming/news/84833.html - IPTV und Online-TV-Streaming
 
 ## Related things
 - Television: DVB-C
