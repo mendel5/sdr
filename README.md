@@ -97,8 +97,8 @@ For educational purposes only. Not intended for practical application.
 
 ### AIS
 - Marine vessel positioning
-- AIS 1: 161.975 MHz (Kanal 87B)
-- AIS 2: 162.025 MHz (Kanal 88B)
+- AIS 1: 161.975 MHz (Channel 87B)
+- AIS 2: 162.025 MHz (Channel 88B)
 - https://de.wikipedia.org/wiki/Automatic_Identification_System
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-cheap-ais-ship-tracking/
 - https://www.marinetraffic.com
