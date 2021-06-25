@@ -25,7 +25,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/T-DAB-Frequenz
 - https://de.wikipedia.org/wiki/VHF-Band_III
 - https://de.wikipedia.org/wiki/Liste_der_DAB-Sender_in_Deutschland
-- http://www.digitalradio-in-deutschland.de/hamburg/ - Actual frequencies
+- http://www.digitalradio-in-deutschland.de/bayern/ - Actual frequencies
 - welle.io (see Software section)
 - qt-dab (see Software section)
 
