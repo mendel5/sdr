@@ -13,7 +13,7 @@ For educational purposes only. Not intended for practical application.
 - https://de.wikipedia.org/wiki/Ultrakurzwelle#Verwendung_des_UKW-Frequenzspektrums
 - https://en.wikipedia.org/wiki/Band_II
 - https://de.wikipedia.org/wiki/H%C3%B6rfunk
-- https://radiomap.eu/de/hamburg - Actual frequencies
+- https://radiomap.eu/de/berlin - Actual frequencies
 - https://learn.adafruit.com/getting-started-with-rtl-sdr-and-sdr-sharp/sdr-number-fm-radio
 - SDRsharp / SDR#
 
