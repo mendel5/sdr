@@ -3,6 +3,8 @@ Overview of Use Cases and Applications for Software Defined Radios (SDR).
 
 For educational purposes only. Not intended for practical application.
 
+Note: Some use cases focus on Germany and are not applicable to other countries.
+
 ## Overview
 
 ### FM broadcasting
