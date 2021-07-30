@@ -210,6 +210,8 @@ Note: Some use cases focus on Germany and are not applicable to other countries.
 - https://www.everythingrf.com/community/lte-frequency-bands
 - https://www.everythingrf.com/community/5g-frequency-bands
 - https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
+- https://news.ycombinator.com/item?id=27946947
+- https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
