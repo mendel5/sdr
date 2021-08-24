@@ -1,5 +1,5 @@
 # sdr
-Overview of Use Cases and Applications for Software Defined Radios (SDR).
+Overview of use cases and applications for software defined radios (SDR).
 
 For educational purposes only. Not intended for practical application.
 
