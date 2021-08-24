@@ -251,3 +251,10 @@ Note: Some use cases focus on Germany and are not applicable to other countries.
 - https://www.reddit.com/r/rfelectronics/
 - https://www.reddit.com/r/amateursatellites/
 - https://www.reddit.com/r/ADSB/
+
+### Electromagnetic Radiation
+- https://www.reddit.com/r/RTLSDR/comments/ow9k9l/electromagnetic_spectrum/
+- http://unihedron.com/projects/spectrum/index.php
+- http://unihedron.com/projects/spectrum/moreinfo.php
+- http://unihedron.com/projects/spectrum/downloads/
+- http://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf - The Electromagnetic Radiation Spectrum Map
