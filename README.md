@@ -189,6 +189,7 @@ Note: Some use are focused on Germany and may not be applicable to other countri
 - https://www.ard-digital.de/
 - https://www.youtube.com/channel/UCHSPXEOe6VG78r8HTGHuu8w/videos - ARD Digital erklärt
 - https://satellitenempfang.info
+- https://fernseherfuchs.com/welches-antennekabel/
 - https://en.wikipedia.org/wiki/List_of_software-defined_radios
 - https://www.onesdr.com/
 - https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
