@@ -50,7 +50,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://www.linuxtv.org/wiki/index.php/DVB-T2_USB_Devices
 
 ### DVB-S
-- Television, satellite based
+- Television, satellite
 - also known as DVB-S / DVB-S2
 - Satellite frequency: 10.7 - 11.75 GHz or 11.8 - 12.75 GHz
 - LNB: 950 - 2175 MHz (Low-noise block downconverter)
