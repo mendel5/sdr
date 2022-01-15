@@ -207,12 +207,14 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
 - Zadig: https://zadig.akeo.ie/ - Install drivers for the RTL-SDR
-- Gqrx: https://github.com/csete/gqrx
+- Gqrx: https://github.com/gqrx-sdr/gqrx
 - Gqrx: https://gqrx.dk/
 - Gqrx: https://wiki.ubuntuusers.de/Gqrx/
 - GNU radio: https://github.com/gnuradio/gnuradio
 - SDRangel: https://github.com/f4exb/sdrangel
 - Universal Radio Hacker (URH): https://github.com/jopohl/urh
+- HackRF: https://github.com/greatscottgadgets/hackrf
+- RedhawkSDR (by NSA): https://github.com/RedhawkSDR/redhawk
 - rtl_433: https://github.com/merbanan/rtl_433
 - rtlamr: https://github.com/bemasher/rtlamr
 - welle.io: https://github.com/AlbrechtL/welle.io
