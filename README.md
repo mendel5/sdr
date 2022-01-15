@@ -154,17 +154,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://noaa-apt.mbernardi.com.ar/guide.html
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-noaa-weather-satellite-images/
 
-## Todo
-- https://rickcaylor.websitetoolbox.com/post/using-rtlsdr-for-dvbs2-10128573
-- https://forum.amsat-dl.org/index.php?thread/101-software-dvb-s-demodulator/
-- https://www.rtl-sdr.com/demodulating-dvb-s-digital-amateur-tv-with-sdrangel-on-windows-with-an-sdr/
-- https://www.rtl-sdr.com/transmitting-and-receiving-datv-with-a-limesdr-and-a-modified-20-dvb-s-receiver/
-- https://en.wikipedia.org/wiki/Television_in_Germany
-- Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
-- PMR446, https://en.wikipedia.org/wiki/PMR446
-- https://www.teltarif.de/iptv-fernsehen-online-tv-streaming/news/84833.html - IPTV und Online-TV-Streaming
-
-## Related things
+## Related topics
 - Television: DVB-C
 - IPTV
 - IP Radio
@@ -259,3 +249,13 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - http://unihedron.com/projects/spectrum/moreinfo.php
 - http://unihedron.com/projects/spectrum/downloads/
 - http://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf - The Electromagnetic Radiation Spectrum Map
+
+## Todo
+- https://rickcaylor.websitetoolbox.com/post/using-rtlsdr-for-dvbs2-10128573
+- https://forum.amsat-dl.org/index.php?thread/101-software-dvb-s-demodulator/
+- https://www.rtl-sdr.com/demodulating-dvb-s-digital-amateur-tv-with-sdrangel-on-windows-with-an-sdr/
+- https://www.rtl-sdr.com/transmitting-and-receiving-datv-with-a-limesdr-and-a-modified-20-dvb-s-receiver/
+- https://en.wikipedia.org/wiki/Television_in_Germany
+- Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
+- PMR446, https://en.wikipedia.org/wiki/PMR446
+- https://www.teltarif.de/iptv-fernsehen-online-tv-streaming/news/84833.html - IPTV und Online-TV-Streaming
