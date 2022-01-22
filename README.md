@@ -105,7 +105,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-cheap-ais-ship-tracking/
 - https://www.marinetraffic.com
 - https://www.vesselfinder.com
-- https://news.ycombinator.com/item?id=26625908
+- https://news.ycombinator.com/item?id=26625908 Vessel Finder
 - https://github.com/OpenCPN/OpenCPN
 - https://openmarine.net/openplotter
 
@@ -201,7 +201,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://www.everythingrf.com/community/lte-frequency-bands
 - https://www.everythingrf.com/community/5g-frequency-bands
 - https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
-- https://news.ycombinator.com/item?id=27946947
+- https://news.ycombinator.com/item?id=27946947 Introduction to open source private LTE and 5G networks
 - https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 
 ### Software
@@ -261,4 +261,4 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
 - PMR446, https://en.wikipedia.org/wiki/PMR446
 - https://www.teltarif.de/iptv-fernsehen-online-tv-streaming/news/84833.html - IPTV und Online-TV-Streaming
-- https://news.ycombinator.com/item?id=29945181
+- https://news.ycombinator.com/item?id=29945181 GNU Radio
