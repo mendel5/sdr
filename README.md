@@ -261,3 +261,4 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - Radio over DVB-S (e.g. [Bayerischer Rundfunk](https://www.br.de/unternehmen/inhalt/technik/rundfunktechnik-radio-satellit100.html))
 - PMR446, https://en.wikipedia.org/wiki/PMR446
 - https://www.teltarif.de/iptv-fernsehen-online-tv-streaming/news/84833.html - IPTV und Online-TV-Streaming
+- https://news.ycombinator.com/item?id=29945181
