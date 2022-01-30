@@ -203,6 +203,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
 - https://news.ycombinator.com/item?id=27946947 Introduction to open source private LTE and 5G networks
 - https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
+- https://wiki.radioreference.com/index.php/Main_Page
 
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
