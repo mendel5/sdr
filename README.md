@@ -214,6 +214,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - SDRangel: https://github.com/f4exb/sdrangel
 - Universal Radio Hacker (URH): https://github.com/jopohl/urh
 - HackRF: https://github.com/greatscottgadgets/hackrf
+- HackRF Spectrum Analyzer: https://github.com/pavsa/hackrf-spectrum-analyzer
 - RedhawkSDR (by NSA): https://github.com/RedhawkSDR/redhawk
 - rtl_433: https://github.com/merbanan/rtl_433
 - rtlamr: https://github.com/bemasher/rtlamr
