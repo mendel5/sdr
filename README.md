@@ -213,6 +213,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - Gqrx: https://wiki.ubuntuusers.de/Gqrx/
 - GNU radio: https://github.com/gnuradio/gnuradio
 - SDRangel: https://github.com/f4exb/sdrangel
+- SDRPlusPlus / SDR++: https://github.com/AlexandreRouma/SDRPlusPlus
 - Universal Radio Hacker (URH): https://github.com/jopohl/urh
 - HackRF: https://github.com/greatscottgadgets/hackrf
 - HackRF Spectrum Analyzer: https://github.com/pavsa/hackrf-spectrum-analyzer
