@@ -1,12 +1,108 @@
-# sdr
+# sdr - Software Defined Radio
 Overview of use cases and applications for software defined radios (SDR).
 
 For educational purposes only. Not intended for practical application.
 
 Note: Some use cases are focused on Germany and may not be applicable to other countries.
 
-## Overview
+## Links
+### Wikipedia
+- https://en.wikipedia.org/wiki/Software-defined_radio
+- https://en.wikipedia.org/wiki/Electromagnetic_spectrum
+- https://de.wikipedia.org/wiki/Elektromagnetisches_Spektrum
+- https://en.wikipedia.org/wiki/Radio_spectrum
+- https://de.wikipedia.org/wiki/Frequenzband
 
+### General
+- https://www.rtl-sdr.com/about-rtl-sdr/
+- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ - Installation guide for Windows and Linux
+- https://www.rtl-sdr.com/category/applications/
+- https://www.rtl-sdr.com/tag/applications-2/
+- https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
+- https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
+- https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
+- https://www.ard-digital.de/
+- https://www.youtube.com/channel/UCHSPXEOe6VG78r8HTGHuu8w/videos - ARD Digital erklärt
+- https://satellitenempfang.info
+- https://fernseherfuchs.com/welches-antennekabel/
+- https://en.wikipedia.org/wiki/List_of_software-defined_radios
+- https://www.onesdr.com/
+- https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
+- https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series - Device comparison
+- http://www.csgnetwork.com/antennaedcalc.html - Antenna length calculator
+- https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
+- https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
+- https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
+- https://www.qsl.net/w4hn/antennaCalc.htm - Antenna length calculator
+- https://pysdr.org/
+- https://github.com/pysdr/pysdr
+- https://www.rtl-sdr.com/pysdr-a-free-guide-to-sdr-and-dsp-using-python/
+- https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
+- https://www.everythingrf.com/community/what-is-the-difference-between-a-monopole-and-dipole-antenna
+- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Monopole-Antennas
+- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Dipole-Antennas
+- https://www.everythingrf.com/community/what-is-a-bias-tee
+- https://www.everythingrf.com/community/what-is-dbi
+- https://www.everythingrf.com/community/lte-frequency-bands
+- https://www.everythingrf.com/community/5g-frequency-bands
+- https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
+- https://news.ycombinator.com/item?id=27946947 Introduction to open source private LTE and 5G networks
+- https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
+- https://wiki.radioreference.com/index.php/Main_Page
+
+### Software
+- SDRsharp / SDR#: https://airspy.com/download/
+- Zadig: https://zadig.akeo.ie/ - Install drivers for the RTL-SDR
+- Gqrx: https://github.com/gqrx-sdr/gqrx
+- Gqrx: https://gqrx.dk/
+- Gqrx: https://wiki.ubuntuusers.de/Gqrx/
+- GNU radio: https://github.com/gnuradio/gnuradio
+- SDRangel: https://github.com/f4exb/sdrangel
+- SDRPlusPlus / SDR++: https://github.com/AlexandreRouma/SDRPlusPlus
+- Universal Radio Hacker (URH): https://github.com/jopohl/urh
+- HackRF: https://github.com/greatscottgadgets/hackrf
+- HackRF Spectrum Analyzer: https://github.com/pavsa/hackrf-spectrum-analyzer
+- RedhawkSDR (by NSA): https://github.com/RedhawkSDR/redhawk
+- rtl_433: https://github.com/merbanan/rtl_433
+- rtlamr: https://github.com/bemasher/rtlamr
+- welle.io: https://github.com/AlbrechtL/welle.io
+- qt-dab: https://github.com/JvanKatwijk/qt-dab
+- QIRX: https://qirx.softsyst.com/
+- DVBViewer: https://www.dvbviewer.com/en/index.php and https://en.wikipedia.org/wiki/DVBViewer
+- Tvheadend: https://tvheadend.org/ and https://en.wikipedia.org/wiki/Tvheadend
+- Tvheadend: https://github.com/tvheadend/tvheadend
+- Kaffeine: https://en.wikipedia.org/wiki/Kaffeine and https://wiki.ubuntuusers.de/Kaffeine/
+- Norasector Turbine: https://github.com/norasector/turbine
+- GR Tempest: https://github.com/git-artes/gr-tempest
+
+### Youtube
+- [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
+- [Youtube: The Coolest Radio You've Probably Never Heard Of - Tom the Dilettante](https://www.youtube.com/watch?v=h4x7cGALaC8)
+- [Youtube: The Beginner's Guide To Software Defined Radio RTL-SDR - Tech Minds](https://www.youtube.com/watch?v=nB6XQSEFwVA)
+- [Youtube: 5 Cool Things You Can Do With An RTL SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=9QzklSyKqQM)
+- [Youtube: 5 Cool Things You Can Do With An AIRSPY SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=Zq12KeRSx8Y)
+- [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
+- [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
+- [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
+- [Youtube: SDRsharp für RTL SDR Stick auf Windows 10 installieren - Anleitung deutsch Howto](https://www.youtube.com/watch?v=d0JS0duC7BI)
+
+### Reddit
+- https://www.reddit.com/r/RTLSDR/
+- https://www.reddit.com/r/sdr/
+- https://www.reddit.com/r/amateurradio/
+- https://www.reddit.com/r/HamRadio/
+- https://www.reddit.com/r/rfelectronics/
+- https://www.reddit.com/r/amateursatellites/
+- https://www.reddit.com/r/ADSB/
+
+### Electromagnetic Radiation
+- https://www.reddit.com/r/RTLSDR/comments/ow9k9l/electromagnetic_spectrum/
+- http://unihedron.com/projects/spectrum/index.php
+- http://unihedron.com/projects/spectrum/moreinfo.php
+- http://unihedron.com/projects/spectrum/downloads/
+- http://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf - The Electromagnetic Radiation Spectrum Map
+
+## Overview of Use Cases
 ### FM broadcasting
 - Radio, terrestrial, analog
 - also known as UKW-Radio
@@ -155,107 +251,10 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-noaa-weather-satellite-images/
 
 ## Related topics
-- Television: DVB-C
+- Television: DVB-C (Cable)
 - IPTV
 - IP Radio
 - Streaming / Mediathek
-
-## Links
-### Wikipedia
-- https://en.wikipedia.org/wiki/Software-defined_radio
-- https://en.wikipedia.org/wiki/Electromagnetic_spectrum
-- https://de.wikipedia.org/wiki/Elektromagnetisches_Spektrum
-- https://en.wikipedia.org/wiki/Radio_spectrum
-- https://de.wikipedia.org/wiki/Frequenzband
-
-### General
-- https://www.rtl-sdr.com/about-rtl-sdr/
-- https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ - Installation guide for Windows and Linux
-- https://www.rtl-sdr.com/category/applications/
-- https://www.rtl-sdr.com/tag/applications-2/
-- https://site.ieee.org/wnc/files/2014/04/IEEE_Frady_SDR_Mar_2014.pdf
-- https://www.reddit.com/r/RTLSDR/comments/9gp9yp/more_things_to_do_with_an_sdr/
-- https://www.rs-online.com/designspark/10-things-you-can-do-with-software-defined-radio
-- https://www.ard-digital.de/
-- https://www.youtube.com/channel/UCHSPXEOe6VG78r8HTGHuu8w/videos - ARD Digital erklärt
-- https://satellitenempfang.info
-- https://fernseherfuchs.com/welches-antennekabel/
-- https://en.wikipedia.org/wiki/List_of_software-defined_radios
-- https://www.onesdr.com/
-- https://www.onesdr.com/2020/01/15/what-is-software-defined-radio-used-for/
-- https://support.nooelec.com/hc/en-us/articles/360005807694-NESDR-SMArt-Series - Device comparison
-- http://www.csgnetwork.com/antennaedcalc.html - Antenna length calculator
-- https://hackaday.com/2019/03/28/wopr-security-loses-some-of-its-obscurity/
-- https://hackaday.com/wp-content/uploads/2019/03/woprsecure_sdr.png - Device comparison
-- https://labs.bishopfox.com/industry-blog/ham-hacks-breaking-into-software-defined-radio - Device comparison
-- https://www.qsl.net/w4hn/antennaCalc.htm - Antenna length calculator
-- https://pysdr.org/
-- https://github.com/pysdr/pysdr
-- https://www.rtl-sdr.com/pysdr-a-free-guide-to-sdr-and-dsp-using-python/
-- https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
-- https://www.everythingrf.com/community/what-is-the-difference-between-a-monopole-and-dipole-antenna
-- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Monopole-Antennas
-- https://discover.hubpages.com/technology/The-Pros-and-Cons-of-Dipole-Antennas
-- https://www.everythingrf.com/community/what-is-a-bias-tee
-- https://www.everythingrf.com/community/what-is-dbi
-- https://www.everythingrf.com/community/lte-frequency-bands
-- https://www.everythingrf.com/community/5g-frequency-bands
-- https://www.everythingrf.com/community/5g-nr-new-radio-frequency-bands
-- https://news.ycombinator.com/item?id=27946947 Introduction to open source private LTE and 5G networks
-- https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
-- https://wiki.radioreference.com/index.php/Main_Page
-
-### Software
-- SDRsharp / SDR#: https://airspy.com/download/
-- Zadig: https://zadig.akeo.ie/ - Install drivers for the RTL-SDR
-- Gqrx: https://github.com/gqrx-sdr/gqrx
-- Gqrx: https://gqrx.dk/
-- Gqrx: https://wiki.ubuntuusers.de/Gqrx/
-- GNU radio: https://github.com/gnuradio/gnuradio
-- SDRangel: https://github.com/f4exb/sdrangel
-- SDRPlusPlus / SDR++: https://github.com/AlexandreRouma/SDRPlusPlus
-- Universal Radio Hacker (URH): https://github.com/jopohl/urh
-- HackRF: https://github.com/greatscottgadgets/hackrf
-- HackRF Spectrum Analyzer: https://github.com/pavsa/hackrf-spectrum-analyzer
-- RedhawkSDR (by NSA): https://github.com/RedhawkSDR/redhawk
-- rtl_433: https://github.com/merbanan/rtl_433
-- rtlamr: https://github.com/bemasher/rtlamr
-- welle.io: https://github.com/AlbrechtL/welle.io
-- qt-dab: https://github.com/JvanKatwijk/qt-dab
-- QIRX: https://qirx.softsyst.com/
-- DVBViewer: https://www.dvbviewer.com/en/index.php and https://en.wikipedia.org/wiki/DVBViewer
-- Tvheadend: https://tvheadend.org/ and https://en.wikipedia.org/wiki/Tvheadend
-- Tvheadend: https://github.com/tvheadend/tvheadend
-- Kaffeine: https://en.wikipedia.org/wiki/Kaffeine and https://wiki.ubuntuusers.de/Kaffeine/
-- Norasector Turbine: https://github.com/norasector/turbine
-- GR Tempest: https://github.com/git-artes/gr-tempest
-
-### Youtube
-- [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
-- [Youtube: The Coolest Radio You've Probably Never Heard Of - Tom the Dilettante](https://www.youtube.com/watch?v=h4x7cGALaC8)
-- [Youtube: The Beginner's Guide To Software Defined Radio RTL-SDR - Tech Minds](https://www.youtube.com/watch?v=nB6XQSEFwVA)
-- [Youtube: 5 Cool Things You Can Do With An RTL SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=9QzklSyKqQM)
-- [Youtube: 5 Cool Things You Can Do With An AIRSPY SDR Receiver - Tech Minds](https://www.youtube.com/watch?v=Zq12KeRSx8Y)
-- [Youtube: Installing RTL-SDR & SDR Sharp on Win10 Made Easy - TheSmokinApe](https://www.youtube.com/watch?v=rUwRt5qn-6U)
-- [Youtube: How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial #286](https://www.youtube.com/watch?v=xQVm-YTKR9s)
-- [Youtube: 2020 SDR Guide Ep 1 : The Incredible World of Software Defined Radio (RTL-SDR, Airspy, SDRPlay etc.)](https://www.youtube.com/watch?v=RWeWALpmtQQ)
-- [Youtube: SDRsharp für RTL SDR Stick auf Windows 10 installieren - Anleitung deutsch Howto](https://www.youtube.com/watch?v=d0JS0duC7BI)
-
-### Reddit
-- https://www.reddit.com/r/RTLSDR/
-- https://www.reddit.com/r/sdr/
-- https://www.reddit.com/r/amateurradio/
-- https://www.reddit.com/r/HamRadio/
-- https://www.reddit.com/r/rfelectronics/
-- https://www.reddit.com/r/amateursatellites/
-- https://www.reddit.com/r/ADSB/
-
-### Electromagnetic Radiation
-- https://www.reddit.com/r/RTLSDR/comments/ow9k9l/electromagnetic_spectrum/
-- http://unihedron.com/projects/spectrum/index.php
-- http://unihedron.com/projects/spectrum/moreinfo.php
-- http://unihedron.com/projects/spectrum/downloads/
-- http://unihedron.com/projects/spectrum/downloads/spectrum-20190805.pdf - The Electromagnetic Radiation Spectrum Map
 
 ## Todo
 - https://rickcaylor.websitetoolbox.com/post/using-rtlsdr-for-dvbs2-10128573
