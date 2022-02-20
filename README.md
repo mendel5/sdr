@@ -49,6 +49,7 @@ Note: Some use cases are focused on Germany and may not be applicable to other c
 - https://news.ycombinator.com/item?id=27946947 Introduction to open source private LTE and 5G networks
 - https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 - https://wiki.radioreference.com/index.php/Main_Page
+- https://www.golem.de/news/radio-wie-gut-darf-dab-klingen-2202-162616.html Radio: Wie gut darf DAB+ klingen?
 
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
