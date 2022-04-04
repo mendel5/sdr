@@ -75,6 +75,7 @@ Note: Some use cases are focused on Germany and might not be applicable to other
 - Kaffeine: https://en.wikipedia.org/wiki/Kaffeine and https://wiki.ubuntuusers.de/Kaffeine/
 - Norasector Turbine: https://github.com/norasector/turbine
 - GR Tempest: https://github.com/git-artes/gr-tempest
+- SDR Enthusiasts: https://github.com/orgs/sdr-enthusiasts/repositories
 
 ### Youtube
 - [Youtube: Getting Started with the RTL-SDR (Software Defined Radio) - ModernHam](https://www.youtube.com/watch?v=C01wLvwjLIs)
