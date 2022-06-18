@@ -50,6 +50,7 @@ Note: Some use cases are focused on Germany and might not be applicable to other
 - https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 - https://wiki.radioreference.com/index.php/Main_Page
 - https://www.golem.de/news/radio-wie-gut-darf-dab-klingen-2202-162616.html Radio: Wie gut darf DAB+ klingen?
+- http://www.websdr.org
 
 ### Software
 - SDRsharp / SDR#: https://airspy.com/download/
